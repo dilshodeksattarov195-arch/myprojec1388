@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseave",
+        "uuid": 11535668,
+        "checksum": "jsrxik"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
